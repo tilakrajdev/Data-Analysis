@@ -1,0 +1,9 @@
+If: Decision Making
+Syntax- if condition:
+            Body
+        
+If-Else:
+Syntax- if condition:
+            Body of if
+        else:
+            Body of else
